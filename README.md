@@ -2,7 +2,7 @@
 
 - Unit Tests via [MinUnit](https://jera.com/techinfo/jtns/jtn002)
 
-- End-2-End Tests via Python script using `subprocess.run` (in these tests we tests using stdin, stdout)
+- End-2-End Tests via Python script using `subprocess.run` (in these tests we tests stdin, stdout)
 
 ## Main file -- Makefile with __test__ target
 
